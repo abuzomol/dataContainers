@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/muzamil/Dropbox/RESEARCH/pointLocation/caches-raw-data/Linux/dataContainers/vectorArray.cpp
+iostream
+-
+vector
+-
+chrono
+-
+random
+-
+

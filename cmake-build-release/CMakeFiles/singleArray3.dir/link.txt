@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3   CMakeFiles/singleArray3.dir/singleArray.cpp.o  -o singleArray3 
